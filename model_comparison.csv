@@ -1,0 +1,5 @@
+Model,Validation MAE,Validation RMSE
+Distance baseline,256.95,
+Equipment baseline,229.1,
+CatBoost MAE loss,115.26478603322033,635.9612513394712
+CatBoost RMSE loss,108.43705437515592,632.9192501868652
